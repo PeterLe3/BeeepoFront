@@ -1,0 +1,46 @@
+body {
+	background-color: #AEA4BF
+}
+h1 {
+	text-align: center;
+}
+label {
+	font-weight: bold;
+}
+p {
+	display: inline-block;
+	position: relative;
+	bottom: 80px;
+
+}
+#inner_form {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#beepo_container {
+	height: 100px;
+	width: 500px;
+	width: 500px;
+	margin: 0 auto;
+	
+
+
+
+
+}
+
+#form_container {
+	height: 100px;
+	background-color: #E3E4DB;
+	width: 500px;
+	margin: 0 auto;
+
+
+}
+
+#beepo {
+	margin-top: 50px;
+
+}
+
