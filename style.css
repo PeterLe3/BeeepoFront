@@ -2,27 +2,7 @@ body {
 	font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-#outerDiv {
-
-	position :relative;
-	width:250px;
-	height:350px;
-	margin: auto;
+#beepo {
 	
-	background-color: #1ED3D6;
-}
-
-#upperDiv{
-	position:absolute;
-	top:20px;
-	margin:auto;
-	left:0px;
-	right:0px;
-	width:80%;
-	background-color: red;
-	height:50%;
-
-
-	
-
+	transform: scale(.5);
 }
