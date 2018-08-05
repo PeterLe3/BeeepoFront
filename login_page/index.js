@@ -6,6 +6,7 @@ $(document).ready(function(){
 		alert(username);
 		alert(password);
 		e.preventDefault();
+
 		alert(window.location.href + "../test.json");
 		$.ajax({
 			method: "POST",
