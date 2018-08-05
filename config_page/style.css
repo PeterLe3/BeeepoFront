@@ -6,38 +6,54 @@ h1 {
 }
 label {
 	font-weight: bold;
+	
+
 }
 p {
-	display: inline-block;
-	position: relative;
-	bottom: 80px;
+	margin-top: 50px;
+	text-align: center;
+	font-size: 16pt;
+
+}
+#submit {
+	font-size: 16pt;
+}
+#username {
+	margin-top: 5px;
+	height: 20px;
 
 }
 #inner_form {
 	margin-top: 10px;
 	margin-bottom: 10px;
 }
-
-#beepo_container {
-	height: 100px;
-	width: 500px;
-	width: 500px;
-	margin: 0 auto;
+#full_container {
+	text-align: center;
+	width: 1000px;
+	height: 200px;
+	margin-top: 100px;
 	
-
-
-
-
 }
-
 #form_container {
-	height: 100px;
+	text-align: left;
+	display: inline;
 	background-color: #E3E4DB;
-	width: 500px;
-	margin: 0 auto;
+	width: 40%;
+	
+	float: left;
+	margin-top: 50px;
+	margin-left: 325px;
+
 
 
 }
+#beepo_container {
+	display: inline;
+	margin-left: 20%;
+
+}
+
+
 
 #beepo {
 	margin-top: 50px;
