@@ -15,10 +15,11 @@ body {
 
 }
 
-#textbox {
+#enterSong {
 	display:inline;
-	float:left;
+
 	top:60px;
 	position:relative;
 	right:15px;
 }
+
